@@ -1,3 +1,4 @@
+/**cambio desde luna*/
 package demo;
 
 public class Demo2 {
@@ -6,6 +7,7 @@ public class Demo2 {
 		System.out.println("linea 1");
 		System.out.println("linea 2");
 		System.out.println("linea 3");
+		/*cambio desde mars*/
 	}
 
 }
